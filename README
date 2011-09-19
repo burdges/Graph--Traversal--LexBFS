@@ -1,0 +1,29 @@
+Graph-Traversal-LexBFS
+
+We implement the chordalisty test using lexicographic breadth-first search
+described in :
+
+Habib, Michel; McConnell, Ross; Paul, Christophe; Viennot, Laurent (2000),
+"Lex-BFS and partition refinement, with applications to transitive orientation, 
+interval graph recognition and consecutive ones testing",
+Theoretical Computer Science 234 (1–2): 59–84, doi:10.1016/S0304-3975(97)00241-7.
+url : http://www.cs.colostate.edu/~rmm/lexbfs.ps
+
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2011 Jeffrey Burdges
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
